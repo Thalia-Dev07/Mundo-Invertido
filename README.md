@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/images/banner/logo.svg">
+    <img style="width: 500px" src="./assets/images/banner/logo.svg">
     <p>Uma jornada para quem não tem medo do desconhecido</p>
 </h1>
 
